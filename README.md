@@ -1,6 +1,8 @@
 # UWPFullScreenAcrylicApp
 Sample to show Full Screen Acrylic App appearance
 
+**Please download this small repository, build and run it.**    
+
 I noticed that on UWP, That background Window Acrylic effect does not work on a Page started at Full screen. Only after you restore it, the effect appears. Can you check this?
 
 When start in Full Screen it seems that Acrylic effect is not drawn; Then try to restore the window, you will notice that the Acrylic effect works.
@@ -48,6 +50,9 @@ and on the page:
 
     </Grid>
     </Page>
+    
+
+
 
 Microsoft Visual Studio Community 2017 Preview
 Version 15.7.0 Preview 2.0
