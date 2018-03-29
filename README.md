@@ -30,7 +30,7 @@ I Enabled it using
         
 and on the page:
 
-<Page
+    <Page
     x:Class="FullScreenAcrylicApp.MainPage"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -47,7 +47,7 @@ and on the page:
         </TextBlock>
 
     </Grid>
-</Page>
+    </Page>
 
 Microsoft Visual Studio Community 2017 Preview
 Version 15.7.0 Preview 2.0
