@@ -7,6 +7,8 @@ I noticed that on UWP, That background Window Acrylic effect does not work on a 
 
 When start in Full Screen it seems that Acrylic effect is not drawn; Then try to restore the window, you will notice that the Acrylic effect works.
 
+**These are the versions of the software I am using:**
+
 Microsoft Windows [versão 10.0.17133.1]
 
 Target version:
@@ -18,7 +20,7 @@ Windows 10, version 1803 (10.0; Build 17125)
 Microsoft Visual Studio Community 2017 Preview
 Version 15.7.0 Preview 2.0
 
-I Enabled it using
+**I Enabled it using this code:**
 
         public App()
         {
