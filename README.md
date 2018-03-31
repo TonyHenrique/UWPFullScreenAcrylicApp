@@ -55,6 +55,7 @@ and on the page:
     
 
 
+**More version information:**
 
 Microsoft Visual Studio Community 2017 Preview
 Version 15.7.0 Preview 2.0
